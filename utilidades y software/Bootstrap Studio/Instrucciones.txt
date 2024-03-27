@@ -2,8 +2,8 @@
 I N S T R U C C I O N E S 
 --------------------------
 
-1.- Instale el Programa, no lo inicie.
-2.- Copie el contenido de la carpeta "crack" en "C:\Program Files\Bootstrap Studio\resources" Reemplazar.
+1.- Instalar el Programa, no iniciar.
+2.- Copiar el contenido de la carpeta "crack" en "C:\Program Files\Bootstrap Studio\resources" Reemplazar o sobreescribirlo.
 
 Listo !!!!
 
