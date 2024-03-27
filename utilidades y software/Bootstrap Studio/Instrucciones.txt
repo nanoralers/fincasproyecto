@@ -1,0 +1,10 @@
+--------------------------
+I N S T R U C C I O N E S 
+--------------------------
+
+1.- Instale el Programa, no lo inicie.
+2.- Copie el contenido de la carpeta "crack" en "C:\Program Files\Bootstrap Studio\resources" Reemplazar.
+
+Listo !!!!
+
+Nota. Analisis en VirusTotal: https://www.virustotal.com/#/file/b48092edd5ebb86f1d8598e36489adf7d30ece90434da29d2ae4e9bb87362c37/detection
